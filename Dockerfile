@@ -7,7 +7,7 @@ FROM rocker/shiny:3.6.3
 RUN mkdir -p /var/lib/shiny-server/bookmarks/shiny
 
 # Download and install R dependencies
-RUN R -e "install.packages(c('shinydashboard', 'shinyjs', 'shinyWidgets', 'ggplot2', 'ggrepel', 'dplyr', 'tidyr', 'timeDate', 'tidyselect', 'markdown', 'lmvar', 'mvtnorm'))"
+RUN R -e "install.packages(c('shinydashboard', 'shinyjs', 'shinyWidgets', 'ggplot2', 'ggrepel', 'dplyr', 'tidyr', 'timeDate', 'tidyselect', 'markdown', 'lmvar', 'mvtnorm', 'Cairo'))"
 
 # Copy the app folder to the image
 COPY App /srv/shiny-server/
