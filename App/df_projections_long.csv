@@ -1,0 +1,919 @@
+"areaName","type","source","n_proxy","Day","Cases"
+"Barnsley","Lower","Estimate",NA,2020-04-15,458
+"Barnsley","Upper","Estimate",NA,2020-04-15,497
+"Barnsley","Lower","Estimate",NA,2020-04-16,470
+"Barnsley","Upper","Estimate",NA,2020-04-16,511
+"Barnsley","Lower","Estimate",NA,2020-04-17,482
+"Barnsley","Upper","Estimate",NA,2020-04-17,526
+"Barnsley","Lower","Estimate",NA,2020-04-18,494
+"Barnsley","Upper","Estimate",NA,2020-04-18,540
+"Barnsley","Lower","Estimate",NA,2020-04-19,506
+"Barnsley","Upper","Estimate",NA,2020-04-19,555
+"Barnsley","Lower","Estimate",NA,2020-04-20,518
+"Barnsley","Upper","Estimate",NA,2020-04-20,569
+"Barnsley","Lower","Estimate",NA,2020-04-21,530
+"Barnsley","Upper","Estimate",NA,2020-04-21,583
+"Barnsley","Lower","Estimate",NA,2020-04-22,541
+"Barnsley","Upper","Estimate",NA,2020-04-22,598
+"Barnsley","Lower","Estimate",NA,2020-04-23,553
+"Barnsley","Upper","Estimate",NA,2020-04-23,612
+"Barnsley","Lower","Estimate",NA,2020-04-24,565
+"Barnsley","Upper","Estimate",NA,2020-04-24,627
+"Barnsley","Lower","Estimate",NA,2020-04-25,577
+"Barnsley","Upper","Estimate",NA,2020-04-25,641
+"Barnsley","Lower","Estimate",NA,2020-04-26,589
+"Barnsley","Upper","Estimate",NA,2020-04-26,656
+"Barnsley","Lower","Estimate",NA,2020-04-27,601
+"Barnsley","Upper","Estimate",NA,2020-04-27,670
+"Barnsley","Lower","Estimate",NA,2020-04-28,612
+"Barnsley","Upper","Estimate",NA,2020-04-28,685
+"Barnsley","Lower","Estimate",NA,2020-04-29,624
+"Barnsley","Upper","Estimate",NA,2020-04-29,699
+"Barnsley","Lower","Estimate",NA,2020-04-30,636
+"Barnsley","Upper","Estimate",NA,2020-04-30,714
+"Barnsley","Lower","Estimate",NA,2020-05-01,648
+"Barnsley","Upper","Estimate",NA,2020-05-01,728
+"Bradford","Lower","Estimate",NA,2020-04-15,534
+"Bradford","Upper","Estimate",NA,2020-04-15,575
+"Bradford","Lower","Estimate",NA,2020-04-16,552
+"Bradford","Upper","Estimate",NA,2020-04-16,597
+"Bradford","Lower","Estimate",NA,2020-04-17,570
+"Bradford","Upper","Estimate",NA,2020-04-17,619
+"Bradford","Lower","Estimate",NA,2020-04-18,588
+"Bradford","Upper","Estimate",NA,2020-04-18,641
+"Bradford","Lower","Estimate",NA,2020-04-19,606
+"Bradford","Upper","Estimate",NA,2020-04-19,663
+"Bradford","Lower","Estimate",NA,2020-04-20,624
+"Bradford","Upper","Estimate",NA,2020-04-20,686
+"Bradford","Lower","Estimate",NA,2020-04-21,643
+"Bradford","Upper","Estimate",NA,2020-04-21,708
+"Bradford","Lower","Estimate",NA,2020-04-22,661
+"Bradford","Upper","Estimate",NA,2020-04-22,730
+"Bradford","Lower","Estimate",NA,2020-04-23,679
+"Bradford","Upper","Estimate",NA,2020-04-23,752
+"Bradford","Lower","Estimate",NA,2020-04-24,697
+"Bradford","Upper","Estimate",NA,2020-04-24,774
+"Bradford","Lower","Estimate",NA,2020-04-25,715
+"Bradford","Upper","Estimate",NA,2020-04-25,797
+"Bradford","Lower","Estimate",NA,2020-04-26,733
+"Bradford","Upper","Estimate",NA,2020-04-26,819
+"Bradford","Lower","Estimate",NA,2020-04-27,751
+"Bradford","Upper","Estimate",NA,2020-04-27,841
+"Bradford","Lower","Estimate",NA,2020-04-28,770
+"Bradford","Upper","Estimate",NA,2020-04-28,863
+"Bradford","Lower","Estimate",NA,2020-04-29,788
+"Bradford","Upper","Estimate",NA,2020-04-29,885
+"Bradford","Lower","Estimate",NA,2020-04-30,806
+"Bradford","Upper","Estimate",NA,2020-04-30,907
+"Bradford","Lower","Estimate",NA,2020-05-01,824
+"Bradford","Upper","Estimate",NA,2020-05-01,930
+"Calderdale","Upper","Proxy",6,2020-04-15,222
+"Calderdale","Lower","Proxy",6,2020-04-15,126
+"Calderdale","Upper","Proxy",6,2020-04-16,224
+"Calderdale","Lower","Proxy",6,2020-04-16,140
+"Calderdale","Upper","Proxy",6,2020-04-17,227
+"Calderdale","Lower","Proxy",6,2020-04-17,152
+"Calderdale","Upper","Proxy",6,2020-04-18,232
+"Calderdale","Lower","Proxy",6,2020-04-18,178
+"Calderdale","Upper","Proxy",6,2020-04-19,240
+"Calderdale","Lower","Proxy",6,2020-04-19,180
+"Calderdale","Upper","Proxy",6,2020-04-20,243
+"Calderdale","Lower","Proxy",6,2020-04-20,182
+"Calderdale","Upper","Proxy",6,2020-04-21,243
+"Calderdale","Lower","Proxy",6,2020-04-21,190
+"Calderdale","Upper","Proxy",6,2020-04-22,262
+"Calderdale","Lower","Proxy",6,2020-04-22,192
+"Calderdale","Upper","Proxy",6,2020-04-23,266
+"Calderdale","Lower","Proxy",6,2020-04-23,201
+"Calderdale","Upper","Proxy",6,2020-04-24,278
+"Calderdale","Lower","Proxy",6,2020-04-24,206
+"Calderdale","Upper","Proxy",6,2020-04-25,304
+"Calderdale","Lower","Proxy",6,2020-04-25,208
+"Calderdale","Upper","Proxy",6,2020-04-26,313
+"Calderdale","Lower","Proxy",6,2020-04-26,218
+"Calderdale","Upper","Proxy",6,2020-04-27,316
+"Calderdale","Lower","Proxy",6,2020-04-27,221
+"Calderdale","Upper","Proxy",6,2020-04-28,318
+"Calderdale","Lower","Proxy",6,2020-04-28,225
+"Calderdale","Upper","Proxy",6,2020-04-29,326
+"Calderdale","Lower","Proxy",6,2020-04-29,226
+"Calderdale","Upper","Proxy",6,2020-04-30,326
+"Calderdale","Lower","Proxy",6,2020-04-30,228
+"Calderdale","Upper","Proxy",6,2020-05-01,357
+"Calderdale","Lower","Proxy",6,2020-05-01,235
+"County Durham","Lower","Estimate",NA,2020-04-15,878
+"County Durham","Upper","Estimate",NA,2020-04-15,940
+"County Durham","Lower","Estimate",NA,2020-04-16,915
+"County Durham","Upper","Estimate",NA,2020-04-16,985
+"County Durham","Lower","Estimate",NA,2020-04-17,951
+"County Durham","Upper","Estimate",NA,2020-04-17,1029
+"County Durham","Lower","Estimate",NA,2020-04-18,988
+"County Durham","Upper","Estimate",NA,2020-04-18,1074
+"County Durham","Lower","Estimate",NA,2020-04-19,1024
+"County Durham","Upper","Estimate",NA,2020-04-19,1119
+"County Durham","Lower","Estimate",NA,2020-04-20,1061
+"County Durham","Upper","Estimate",NA,2020-04-20,1164
+"County Durham","Lower","Estimate",NA,2020-04-21,1098
+"County Durham","Upper","Estimate",NA,2020-04-21,1208
+"County Durham","Lower","Estimate",NA,2020-04-22,1134
+"County Durham","Upper","Estimate",NA,2020-04-22,1253
+"County Durham","Lower","Estimate",NA,2020-04-23,1171
+"County Durham","Upper","Estimate",NA,2020-04-23,1298
+"County Durham","Lower","Estimate",NA,2020-04-24,1207
+"County Durham","Upper","Estimate",NA,2020-04-24,1343
+"County Durham","Lower","Estimate",NA,2020-04-25,1244
+"County Durham","Upper","Estimate",NA,2020-04-25,1387
+"County Durham","Lower","Estimate",NA,2020-04-26,1281
+"County Durham","Upper","Estimate",NA,2020-04-26,1432
+"County Durham","Lower","Estimate",NA,2020-04-27,1317
+"County Durham","Upper","Estimate",NA,2020-04-27,1477
+"County Durham","Lower","Estimate",NA,2020-04-28,1354
+"County Durham","Upper","Estimate",NA,2020-04-28,1521
+"County Durham","Lower","Estimate",NA,2020-04-29,1390
+"County Durham","Upper","Estimate",NA,2020-04-29,1566
+"County Durham","Lower","Estimate",NA,2020-04-30,1427
+"County Durham","Upper","Estimate",NA,2020-04-30,1611
+"County Durham","Lower","Estimate",NA,2020-05-01,1464
+"County Durham","Upper","Estimate",NA,2020-05-01,1656
+"Darlington","Upper","Proxy",7,2020-04-15,222
+"Darlington","Lower","Proxy",7,2020-04-15,132
+"Darlington","Upper","Proxy",7,2020-04-16,224
+"Darlington","Lower","Proxy",7,2020-04-16,140
+"Darlington","Upper","Proxy",7,2020-04-17,227
+"Darlington","Lower","Proxy",7,2020-04-17,152
+"Darlington","Upper","Proxy",7,2020-04-18,232
+"Darlington","Lower","Proxy",7,2020-04-18,180
+"Darlington","Upper","Proxy",7,2020-04-19,240
+"Darlington","Lower","Proxy",7,2020-04-19,184
+"Darlington","Upper","Proxy",7,2020-04-20,246
+"Darlington","Lower","Proxy",7,2020-04-20,186
+"Darlington","Upper","Proxy",7,2020-04-21,266
+"Darlington","Lower","Proxy",7,2020-04-21,203
+"Darlington","Upper","Proxy",7,2020-04-22,268
+"Darlington","Lower","Proxy",7,2020-04-22,218
+"Darlington","Upper","Proxy",7,2020-04-23,284
+"Darlington","Lower","Proxy",7,2020-04-23,232
+"Darlington","Upper","Proxy",7,2020-04-24,299
+"Darlington","Lower","Proxy",7,2020-04-24,236
+"Darlington","Upper","Proxy",7,2020-04-25,316
+"Darlington","Lower","Proxy",7,2020-04-25,237
+"Darlington","Upper","Proxy",7,2020-04-26,334
+"Darlington","Lower","Proxy",7,2020-04-26,249
+"Darlington","Upper","Proxy",7,2020-04-27,358
+"Darlington","Lower","Proxy",7,2020-04-27,253
+"Darlington","Upper","Proxy",7,2020-04-28,379
+"Darlington","Lower","Proxy",7,2020-04-28,254
+"Darlington","Upper","Proxy",7,2020-04-29,403
+"Darlington","Lower","Proxy",7,2020-04-29,254
+"Darlington","Upper","Proxy",7,2020-04-30,417
+"Darlington","Lower","Proxy",7,2020-04-30,259
+"Darlington","Upper","Proxy",7,2020-05-01,428
+"Darlington","Lower","Proxy",7,2020-05-01,266
+"Doncaster","Lower","Estimate",NA,2020-04-15,288
+"Doncaster","Upper","Estimate",NA,2020-04-15,309
+"Doncaster","Lower","Estimate",NA,2020-04-16,301
+"Doncaster","Upper","Estimate",NA,2020-04-16,324
+"Doncaster","Lower","Estimate",NA,2020-04-17,314
+"Doncaster","Upper","Estimate",NA,2020-04-17,340
+"Doncaster","Lower","Estimate",NA,2020-04-18,327
+"Doncaster","Upper","Estimate",NA,2020-04-18,356
+"Doncaster","Lower","Estimate",NA,2020-04-19,340
+"Doncaster","Upper","Estimate",NA,2020-04-19,372
+"Doncaster","Lower","Estimate",NA,2020-04-20,353
+"Doncaster","Upper","Estimate",NA,2020-04-20,388
+"Doncaster","Lower","Estimate",NA,2020-04-21,367
+"Doncaster","Upper","Estimate",NA,2020-04-21,404
+"Doncaster","Lower","Estimate",NA,2020-04-22,380
+"Doncaster","Upper","Estimate",NA,2020-04-22,420
+"Doncaster","Lower","Estimate",NA,2020-04-23,393
+"Doncaster","Upper","Estimate",NA,2020-04-23,436
+"Doncaster","Lower","Estimate",NA,2020-04-24,406
+"Doncaster","Upper","Estimate",NA,2020-04-24,452
+"Doncaster","Lower","Estimate",NA,2020-04-25,419
+"Doncaster","Upper","Estimate",NA,2020-04-25,468
+"Doncaster","Lower","Estimate",NA,2020-04-26,432
+"Doncaster","Upper","Estimate",NA,2020-04-26,484
+"Doncaster","Lower","Estimate",NA,2020-04-27,445
+"Doncaster","Upper","Estimate",NA,2020-04-27,500
+"Doncaster","Lower","Estimate",NA,2020-04-28,458
+"Doncaster","Upper","Estimate",NA,2020-04-28,516
+"Doncaster","Lower","Estimate",NA,2020-04-29,471
+"Doncaster","Upper","Estimate",NA,2020-04-29,532
+"Doncaster","Lower","Estimate",NA,2020-04-30,484
+"Doncaster","Upper","Estimate",NA,2020-04-30,548
+"Doncaster","Lower","Estimate",NA,2020-05-01,497
+"Doncaster","Upper","Estimate",NA,2020-05-01,564
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-15,321
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-15,341
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-16,339
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-16,363
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-17,356
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-17,384
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-18,373
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-18,405
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-19,391
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-19,427
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-20,408
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-20,448
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-21,426
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-21,469
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-22,443
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-22,490
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-23,460
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-23,512
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-24,478
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-24,533
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-25,495
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-25,554
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-26,513
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-26,575
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-27,530
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-27,597
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-28,547
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-28,618
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-29,565
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-29,639
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-04-30,582
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-04-30,660
+"East Riding of Yorkshire","Lower","Estimate",NA,2020-05-01,600
+"East Riding of Yorkshire","Upper","Estimate",NA,2020-05-01,682
+"Gateshead","Upper","Proxy",7,2020-04-15,628
+"Gateshead","Lower","Proxy",7,2020-04-15,493
+"Gateshead","Upper","Proxy",7,2020-04-16,655
+"Gateshead","Lower","Proxy",7,2020-04-16,506
+"Gateshead","Upper","Proxy",7,2020-04-17,700
+"Gateshead","Lower","Proxy",7,2020-04-17,533
+"Gateshead","Upper","Proxy",7,2020-04-18,741
+"Gateshead","Lower","Proxy",7,2020-04-18,561
+"Gateshead","Upper","Proxy",7,2020-04-19,762
+"Gateshead","Lower","Proxy",7,2020-04-19,598
+"Gateshead","Upper","Proxy",7,2020-04-20,790
+"Gateshead","Lower","Proxy",7,2020-04-20,614
+"Gateshead","Upper","Proxy",7,2020-04-21,807
+"Gateshead","Lower","Proxy",7,2020-04-21,639
+"Gateshead","Upper","Proxy",7,2020-04-22,835
+"Gateshead","Lower","Proxy",7,2020-04-22,664
+"Gateshead","Upper","Proxy",7,2020-04-23,861
+"Gateshead","Lower","Proxy",7,2020-04-23,714
+"Gateshead","Upper","Proxy",7,2020-04-24,870
+"Gateshead","Lower","Proxy",7,2020-04-24,732
+"Gateshead","Upper","Proxy",7,2020-04-25,886
+"Gateshead","Lower","Proxy",7,2020-04-25,776
+"Gateshead","Upper","Proxy",7,2020-04-26,913
+"Gateshead","Lower","Proxy",7,2020-04-26,789
+"Gateshead","Upper","Proxy",7,2020-04-27,921
+"Gateshead","Lower","Proxy",7,2020-04-27,801
+"Gateshead","Upper","Proxy",7,2020-04-28,962
+"Gateshead","Lower","Proxy",7,2020-04-28,827
+"Gateshead","Upper","Proxy",7,2020-04-29,989
+"Gateshead","Lower","Proxy",7,2020-04-29,837
+"Gateshead","Upper","Proxy",7,2020-04-30,1013
+"Gateshead","Lower","Proxy",7,2020-04-30,846
+"Gateshead","Upper","Proxy",7,2020-05-01,1029
+"Gateshead","Lower","Proxy",7,2020-05-01,871
+"Hartlepool","Upper","Proxy",5,2020-04-15,139
+"Hartlepool","Lower","Proxy",5,2020-04-15,104
+"Hartlepool","Upper","Proxy",5,2020-04-16,140
+"Hartlepool","Lower","Proxy",5,2020-04-16,114
+"Hartlepool","Upper","Proxy",5,2020-04-17,146
+"Hartlepool","Lower","Proxy",5,2020-04-17,118
+"Hartlepool","Upper","Proxy",5,2020-04-18,150
+"Hartlepool","Lower","Proxy",5,2020-04-18,124
+"Hartlepool","Upper","Proxy",5,2020-04-19,154
+"Hartlepool","Lower","Proxy",5,2020-04-19,125
+"Hartlepool","Upper","Proxy",5,2020-04-20,166
+"Hartlepool","Lower","Proxy",5,2020-04-20,136
+"Hartlepool","Upper","Proxy",5,2020-04-21,166
+"Hartlepool","Lower","Proxy",5,2020-04-21,143
+"Hartlepool","Upper","Proxy",5,2020-04-22,166
+"Hartlepool","Lower","Proxy",5,2020-04-22,144
+"Hartlepool","Upper","Proxy",5,2020-04-23,169
+"Hartlepool","Lower","Proxy",5,2020-04-23,145
+"Hartlepool","Upper","Proxy",5,2020-04-24,176
+"Hartlepool","Lower","Proxy",5,2020-04-24,146
+"Hartlepool","Upper","Proxy",5,2020-04-25,185
+"Hartlepool","Lower","Proxy",5,2020-04-25,147
+"Hartlepool","Upper","Proxy",5,2020-04-26,187
+"Hartlepool","Lower","Proxy",5,2020-04-26,151
+"Hartlepool","Upper","Proxy",5,2020-04-27,191
+"Hartlepool","Lower","Proxy",5,2020-04-27,153
+"Hartlepool","Upper","Proxy",5,2020-04-28,197
+"Hartlepool","Lower","Proxy",5,2020-04-28,155
+"Hartlepool","Upper","Proxy",5,2020-04-29,201
+"Hartlepool","Lower","Proxy",5,2020-04-29,155
+"Hartlepool","Upper","Proxy",5,2020-04-30,207
+"Hartlepool","Lower","Proxy",5,2020-04-30,155
+"Hartlepool","Upper","Proxy",5,2020-05-01,208
+"Hartlepool","Lower","Proxy",5,2020-05-01,167
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-15,332
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-15,221
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-16,343
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-16,238
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-17,357
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-17,255
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-18,361
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-18,264
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-19,374
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-19,279
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-20,394
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-20,299
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-21,400
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-21,301
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-22,404
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-22,314
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-23,450
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-23,329
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-24,457
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-24,339
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-25,468
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-25,343
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-26,490
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-26,354
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-27,506
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-27,361
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-28,509
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-28,363
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-29,513
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-29,363
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-04-30,522
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-04-30,367
+"Kingston upon Hull, City of","Upper","Proxy",14,2020-05-01,536
+"Kingston upon Hull, City of","Lower","Proxy",14,2020-05-01,378
+"Kirklees","Lower","Estimate",NA,2020-04-15,405
+"Kirklees","Upper","Estimate",NA,2020-04-15,438
+"Kirklees","Lower","Estimate",NA,2020-04-16,415
+"Kirklees","Upper","Estimate",NA,2020-04-16,451
+"Kirklees","Lower","Estimate",NA,2020-04-17,426
+"Kirklees","Upper","Estimate",NA,2020-04-17,464
+"Kirklees","Lower","Estimate",NA,2020-04-18,437
+"Kirklees","Upper","Estimate",NA,2020-04-18,477
+"Kirklees","Lower","Estimate",NA,2020-04-19,447
+"Kirklees","Upper","Estimate",NA,2020-04-19,490
+"Kirklees","Lower","Estimate",NA,2020-04-20,458
+"Kirklees","Upper","Estimate",NA,2020-04-20,503
+"Kirklees","Lower","Estimate",NA,2020-04-21,469
+"Kirklees","Upper","Estimate",NA,2020-04-21,516
+"Kirklees","Lower","Estimate",NA,2020-04-22,479
+"Kirklees","Upper","Estimate",NA,2020-04-22,529
+"Kirklees","Lower","Estimate",NA,2020-04-23,490
+"Kirklees","Upper","Estimate",NA,2020-04-23,542
+"Kirklees","Lower","Estimate",NA,2020-04-24,500
+"Kirklees","Upper","Estimate",NA,2020-04-24,555
+"Kirklees","Lower","Estimate",NA,2020-04-25,511
+"Kirklees","Upper","Estimate",NA,2020-04-25,568
+"Kirklees","Lower","Estimate",NA,2020-04-26,522
+"Kirklees","Upper","Estimate",NA,2020-04-26,581
+"Kirklees","Lower","Estimate",NA,2020-04-27,532
+"Kirklees","Upper","Estimate",NA,2020-04-27,595
+"Kirklees","Lower","Estimate",NA,2020-04-28,543
+"Kirklees","Upper","Estimate",NA,2020-04-28,608
+"Kirklees","Lower","Estimate",NA,2020-04-29,554
+"Kirklees","Upper","Estimate",NA,2020-04-29,621
+"Kirklees","Lower","Estimate",NA,2020-04-30,564
+"Kirklees","Upper","Estimate",NA,2020-04-30,634
+"Kirklees","Lower","Estimate",NA,2020-05-01,575
+"Kirklees","Upper","Estimate",NA,2020-05-01,647
+"Leeds","Lower","Estimate",NA,2020-04-15,853
+"Leeds","Upper","Estimate",NA,2020-04-15,908
+"Leeds","Lower","Estimate",NA,2020-04-16,895
+"Leeds","Upper","Estimate",NA,2020-04-16,960
+"Leeds","Lower","Estimate",NA,2020-04-17,938
+"Leeds","Upper","Estimate",NA,2020-04-17,1012
+"Leeds","Lower","Estimate",NA,2020-04-18,980
+"Leeds","Upper","Estimate",NA,2020-04-18,1064
+"Leeds","Lower","Estimate",NA,2020-04-19,1023
+"Leeds","Upper","Estimate",NA,2020-04-19,1116
+"Leeds","Lower","Estimate",NA,2020-04-20,1065
+"Leeds","Upper","Estimate",NA,2020-04-20,1167
+"Leeds","Lower","Estimate",NA,2020-04-21,1108
+"Leeds","Upper","Estimate",NA,2020-04-21,1219
+"Leeds","Lower","Estimate",NA,2020-04-22,1150
+"Leeds","Upper","Estimate",NA,2020-04-22,1271
+"Leeds","Lower","Estimate",NA,2020-04-23,1192
+"Leeds","Upper","Estimate",NA,2020-04-23,1323
+"Leeds","Lower","Estimate",NA,2020-04-24,1235
+"Leeds","Upper","Estimate",NA,2020-04-24,1375
+"Leeds","Lower","Estimate",NA,2020-04-25,1277
+"Leeds","Upper","Estimate",NA,2020-04-25,1427
+"Leeds","Lower","Estimate",NA,2020-04-26,1320
+"Leeds","Upper","Estimate",NA,2020-04-26,1479
+"Leeds","Lower","Estimate",NA,2020-04-27,1362
+"Leeds","Upper","Estimate",NA,2020-04-27,1531
+"Leeds","Lower","Estimate",NA,2020-04-28,1405
+"Leeds","Upper","Estimate",NA,2020-04-28,1582
+"Leeds","Lower","Estimate",NA,2020-04-29,1447
+"Leeds","Upper","Estimate",NA,2020-04-29,1634
+"Leeds","Lower","Estimate",NA,2020-04-30,1490
+"Leeds","Upper","Estimate",NA,2020-04-30,1686
+"Leeds","Lower","Estimate",NA,2020-05-01,1532
+"Leeds","Upper","Estimate",NA,2020-05-01,1738
+"Middlesbrough","Lower","Estimate",NA,2020-04-15,361
+"Middlesbrough","Upper","Estimate",NA,2020-04-15,388
+"Middlesbrough","Lower","Estimate",NA,2020-04-16,376
+"Middlesbrough","Upper","Estimate",NA,2020-04-16,405
+"Middlesbrough","Lower","Estimate",NA,2020-04-17,390
+"Middlesbrough","Upper","Estimate",NA,2020-04-17,423
+"Middlesbrough","Lower","Estimate",NA,2020-04-18,405
+"Middlesbrough","Upper","Estimate",NA,2020-04-18,441
+"Middlesbrough","Lower","Estimate",NA,2020-04-19,419
+"Middlesbrough","Upper","Estimate",NA,2020-04-19,459
+"Middlesbrough","Lower","Estimate",NA,2020-04-20,434
+"Middlesbrough","Upper","Estimate",NA,2020-04-20,477
+"Middlesbrough","Lower","Estimate",NA,2020-04-21,449
+"Middlesbrough","Upper","Estimate",NA,2020-04-21,494
+"Middlesbrough","Lower","Estimate",NA,2020-04-22,463
+"Middlesbrough","Upper","Estimate",NA,2020-04-22,512
+"Middlesbrough","Lower","Estimate",NA,2020-04-23,478
+"Middlesbrough","Upper","Estimate",NA,2020-04-23,530
+"Middlesbrough","Lower","Estimate",NA,2020-04-24,492
+"Middlesbrough","Upper","Estimate",NA,2020-04-24,548
+"Middlesbrough","Lower","Estimate",NA,2020-04-25,507
+"Middlesbrough","Upper","Estimate",NA,2020-04-25,566
+"Middlesbrough","Lower","Estimate",NA,2020-04-26,521
+"Middlesbrough","Upper","Estimate",NA,2020-04-26,583
+"Middlesbrough","Lower","Estimate",NA,2020-04-27,536
+"Middlesbrough","Upper","Estimate",NA,2020-04-27,601
+"Middlesbrough","Lower","Estimate",NA,2020-04-28,550
+"Middlesbrough","Upper","Estimate",NA,2020-04-28,619
+"Middlesbrough","Lower","Estimate",NA,2020-04-29,565
+"Middlesbrough","Upper","Estimate",NA,2020-04-29,637
+"Middlesbrough","Lower","Estimate",NA,2020-04-30,579
+"Middlesbrough","Upper","Estimate",NA,2020-04-30,654
+"Middlesbrough","Lower","Estimate",NA,2020-05-01,594
+"Middlesbrough","Upper","Estimate",NA,2020-05-01,672
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-15,685
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-15,743
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-16,702
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-16,763
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-17,718
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-17,783
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-18,734
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-18,802
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-19,750
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-19,822
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-20,766
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-20,842
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-21,783
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-21,862
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-22,799
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-22,882
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-23,815
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-23,901
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-24,831
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-24,921
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-25,847
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-25,941
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-26,864
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-26,961
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-27,880
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-27,981
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-28,896
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-28,1000
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-29,912
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-29,1020
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-04-30,928
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-04-30,1040
+"Newcastle upon Tyne","Lower","Estimate",NA,2020-05-01,945
+"Newcastle upon Tyne","Upper","Estimate",NA,2020-05-01,1060
+"North East Lincolnshire","Upper","Proxy",7,2020-04-15,98
+"North East Lincolnshire","Lower","Proxy",7,2020-04-15,70
+"North East Lincolnshire","Upper","Proxy",7,2020-04-16,106
+"North East Lincolnshire","Lower","Proxy",7,2020-04-16,75
+"North East Lincolnshire","Upper","Proxy",7,2020-04-17,110
+"North East Lincolnshire","Lower","Proxy",7,2020-04-17,80
+"North East Lincolnshire","Upper","Proxy",7,2020-04-18,111
+"North East Lincolnshire","Lower","Proxy",7,2020-04-18,81
+"North East Lincolnshire","Upper","Proxy",7,2020-04-19,115
+"North East Lincolnshire","Lower","Proxy",7,2020-04-19,86
+"North East Lincolnshire","Upper","Proxy",7,2020-04-20,116
+"North East Lincolnshire","Lower","Proxy",7,2020-04-20,98
+"North East Lincolnshire","Upper","Proxy",7,2020-04-21,119
+"North East Lincolnshire","Lower","Proxy",7,2020-04-21,104
+"North East Lincolnshire","Upper","Proxy",7,2020-04-22,119
+"North East Lincolnshire","Lower","Proxy",7,2020-04-22,105
+"North East Lincolnshire","Upper","Proxy",7,2020-04-23,133
+"North East Lincolnshire","Lower","Proxy",7,2020-04-23,107
+"North East Lincolnshire","Upper","Proxy",7,2020-04-24,145
+"North East Lincolnshire","Lower","Proxy",7,2020-04-24,112
+"North East Lincolnshire","Upper","Proxy",7,2020-04-25,149
+"North East Lincolnshire","Lower","Proxy",7,2020-04-25,113
+"North East Lincolnshire","Upper","Proxy",7,2020-04-26,152
+"North East Lincolnshire","Lower","Proxy",7,2020-04-26,113
+"North East Lincolnshire","Upper","Proxy",7,2020-04-27,156
+"North East Lincolnshire","Lower","Proxy",7,2020-04-27,117
+"North East Lincolnshire","Upper","Proxy",7,2020-04-28,156
+"North East Lincolnshire","Lower","Proxy",7,2020-04-28,117
+"North East Lincolnshire","Upper","Proxy",7,2020-04-29,157
+"North East Lincolnshire","Lower","Proxy",7,2020-04-29,117
+"North East Lincolnshire","Upper","Proxy",7,2020-04-30,158
+"North East Lincolnshire","Lower","Proxy",7,2020-04-30,117
+"North East Lincolnshire","Upper","Proxy",7,2020-05-01,174
+"North East Lincolnshire","Lower","Proxy",7,2020-05-01,117
+"North Lincolnshire","Upper","Proxy",11,2020-04-15,262
+"North Lincolnshire","Lower","Proxy",11,2020-04-15,132
+"North Lincolnshire","Upper","Proxy",11,2020-04-16,276
+"North Lincolnshire","Lower","Proxy",11,2020-04-16,188
+"North Lincolnshire","Upper","Proxy",11,2020-04-17,282
+"North Lincolnshire","Lower","Proxy",11,2020-04-17,188
+"North Lincolnshire","Upper","Proxy",11,2020-04-18,290
+"North Lincolnshire","Lower","Proxy",11,2020-04-18,188
+"North Lincolnshire","Upper","Proxy",11,2020-04-19,296
+"North Lincolnshire","Lower","Proxy",11,2020-04-19,188
+"North Lincolnshire","Upper","Proxy",11,2020-04-20,300
+"North Lincolnshire","Lower","Proxy",11,2020-04-20,189
+"North Lincolnshire","Upper","Proxy",11,2020-04-21,308
+"North Lincolnshire","Lower","Proxy",11,2020-04-21,235
+"North Lincolnshire","Upper","Proxy",11,2020-04-22,331
+"North Lincolnshire","Lower","Proxy",11,2020-04-22,235
+"North Lincolnshire","Upper","Proxy",11,2020-04-23,349
+"North Lincolnshire","Lower","Proxy",11,2020-04-23,236
+"North Lincolnshire","Upper","Proxy",11,2020-04-24,352
+"North Lincolnshire","Lower","Proxy",11,2020-04-24,236
+"North Lincolnshire","Upper","Proxy",11,2020-04-25,359
+"North Lincolnshire","Lower","Proxy",11,2020-04-25,237
+"North Lincolnshire","Upper","Proxy",11,2020-04-26,368
+"North Lincolnshire","Lower","Proxy",11,2020-04-26,249
+"North Lincolnshire","Upper","Proxy",11,2020-04-27,376
+"North Lincolnshire","Lower","Proxy",11,2020-04-27,253
+"North Lincolnshire","Upper","Proxy",11,2020-04-28,385
+"North Lincolnshire","Lower","Proxy",11,2020-04-28,254
+"North Lincolnshire","Upper","Proxy",11,2020-04-29,403
+"North Lincolnshire","Lower","Proxy",11,2020-04-29,254
+"North Lincolnshire","Upper","Proxy",11,2020-04-30,417
+"North Lincolnshire","Lower","Proxy",11,2020-04-30,259
+"North Lincolnshire","Upper","Proxy",11,2020-05-01,428
+"North Lincolnshire","Lower","Proxy",11,2020-05-01,266
+"North Tyneside","Lower","Estimate",NA,2020-04-15,362
+"North Tyneside","Upper","Estimate",NA,2020-04-15,393
+"North Tyneside","Lower","Estimate",NA,2020-04-16,371
+"North Tyneside","Upper","Estimate",NA,2020-04-16,403
+"North Tyneside","Lower","Estimate",NA,2020-04-17,379
+"North Tyneside","Upper","Estimate",NA,2020-04-17,414
+"North Tyneside","Lower","Estimate",NA,2020-04-18,387
+"North Tyneside","Upper","Estimate",NA,2020-04-18,424
+"North Tyneside","Lower","Estimate",NA,2020-04-19,396
+"North Tyneside","Upper","Estimate",NA,2020-04-19,434
+"North Tyneside","Lower","Estimate",NA,2020-04-20,404
+"North Tyneside","Upper","Estimate",NA,2020-04-20,445
+"North Tyneside","Lower","Estimate",NA,2020-04-21,413
+"North Tyneside","Upper","Estimate",NA,2020-04-21,455
+"North Tyneside","Lower","Estimate",NA,2020-04-22,421
+"North Tyneside","Upper","Estimate",NA,2020-04-22,465
+"North Tyneside","Lower","Estimate",NA,2020-04-23,429
+"North Tyneside","Upper","Estimate",NA,2020-04-23,475
+"North Tyneside","Lower","Estimate",NA,2020-04-24,438
+"North Tyneside","Upper","Estimate",NA,2020-04-24,486
+"North Tyneside","Lower","Estimate",NA,2020-04-25,446
+"North Tyneside","Upper","Estimate",NA,2020-04-25,496
+"North Tyneside","Lower","Estimate",NA,2020-04-26,455
+"North Tyneside","Upper","Estimate",NA,2020-04-26,506
+"North Tyneside","Lower","Estimate",NA,2020-04-27,463
+"North Tyneside","Upper","Estimate",NA,2020-04-27,516
+"North Tyneside","Lower","Estimate",NA,2020-04-28,471
+"North Tyneside","Upper","Estimate",NA,2020-04-28,527
+"North Tyneside","Lower","Estimate",NA,2020-04-29,480
+"North Tyneside","Upper","Estimate",NA,2020-04-29,537
+"North Tyneside","Lower","Estimate",NA,2020-04-30,488
+"North Tyneside","Upper","Estimate",NA,2020-04-30,547
+"North Tyneside","Lower","Estimate",NA,2020-05-01,497
+"North Tyneside","Upper","Estimate",NA,2020-05-01,557
+"North Yorkshire","Lower","Estimate",NA,2020-04-15,600
+"North Yorkshire","Upper","Estimate",NA,2020-04-15,645
+"North Yorkshire","Lower","Estimate",NA,2020-04-16,622
+"North Yorkshire","Upper","Estimate",NA,2020-04-16,672
+"North Yorkshire","Lower","Estimate",NA,2020-04-17,644
+"North Yorkshire","Upper","Estimate",NA,2020-04-17,699
+"North Yorkshire","Lower","Estimate",NA,2020-04-18,666
+"North Yorkshire","Upper","Estimate",NA,2020-04-18,725
+"North Yorkshire","Lower","Estimate",NA,2020-04-19,688
+"North Yorkshire","Upper","Estimate",NA,2020-04-19,752
+"North Yorkshire","Lower","Estimate",NA,2020-04-20,710
+"North Yorkshire","Upper","Estimate",NA,2020-04-20,779
+"North Yorkshire","Lower","Estimate",NA,2020-04-21,732
+"North Yorkshire","Upper","Estimate",NA,2020-04-21,806
+"North Yorkshire","Lower","Estimate",NA,2020-04-22,753
+"North Yorkshire","Upper","Estimate",NA,2020-04-22,832
+"North Yorkshire","Lower","Estimate",NA,2020-04-23,775
+"North Yorkshire","Upper","Estimate",NA,2020-04-23,859
+"North Yorkshire","Lower","Estimate",NA,2020-04-24,797
+"North Yorkshire","Upper","Estimate",NA,2020-04-24,886
+"North Yorkshire","Lower","Estimate",NA,2020-04-25,819
+"North Yorkshire","Upper","Estimate",NA,2020-04-25,913
+"North Yorkshire","Lower","Estimate",NA,2020-04-26,841
+"North Yorkshire","Upper","Estimate",NA,2020-04-26,940
+"North Yorkshire","Lower","Estimate",NA,2020-04-27,863
+"North Yorkshire","Upper","Estimate",NA,2020-04-27,966
+"North Yorkshire","Lower","Estimate",NA,2020-04-28,885
+"North Yorkshire","Upper","Estimate",NA,2020-04-28,993
+"North Yorkshire","Lower","Estimate",NA,2020-04-29,907
+"North Yorkshire","Upper","Estimate",NA,2020-04-29,1020
+"North Yorkshire","Lower","Estimate",NA,2020-04-30,929
+"North Yorkshire","Upper","Estimate",NA,2020-04-30,1047
+"North Yorkshire","Lower","Estimate",NA,2020-05-01,951
+"North Yorkshire","Upper","Estimate",NA,2020-05-01,1073
+"Northumberland","Upper","Proxy",7,2020-04-15,628
+"Northumberland","Lower","Proxy",7,2020-04-15,493
+"Northumberland","Upper","Proxy",7,2020-04-16,655
+"Northumberland","Lower","Proxy",7,2020-04-16,506
+"Northumberland","Upper","Proxy",7,2020-04-17,700
+"Northumberland","Lower","Proxy",7,2020-04-17,533
+"Northumberland","Upper","Proxy",7,2020-04-18,741
+"Northumberland","Lower","Proxy",7,2020-04-18,561
+"Northumberland","Upper","Proxy",7,2020-04-19,762
+"Northumberland","Lower","Proxy",7,2020-04-19,598
+"Northumberland","Upper","Proxy",7,2020-04-20,790
+"Northumberland","Lower","Proxy",7,2020-04-20,614
+"Northumberland","Upper","Proxy",7,2020-04-21,807
+"Northumberland","Lower","Proxy",7,2020-04-21,639
+"Northumberland","Upper","Proxy",7,2020-04-22,835
+"Northumberland","Lower","Proxy",7,2020-04-22,664
+"Northumberland","Upper","Proxy",7,2020-04-23,861
+"Northumberland","Lower","Proxy",7,2020-04-23,714
+"Northumberland","Upper","Proxy",7,2020-04-24,870
+"Northumberland","Lower","Proxy",7,2020-04-24,732
+"Northumberland","Upper","Proxy",7,2020-04-25,886
+"Northumberland","Lower","Proxy",7,2020-04-25,776
+"Northumberland","Upper","Proxy",7,2020-04-26,913
+"Northumberland","Lower","Proxy",7,2020-04-26,789
+"Northumberland","Upper","Proxy",7,2020-04-27,921
+"Northumberland","Lower","Proxy",7,2020-04-27,801
+"Northumberland","Upper","Proxy",7,2020-04-28,962
+"Northumberland","Lower","Proxy",7,2020-04-28,827
+"Northumberland","Upper","Proxy",7,2020-04-29,989
+"Northumberland","Lower","Proxy",7,2020-04-29,837
+"Northumberland","Upper","Proxy",7,2020-04-30,1013
+"Northumberland","Lower","Proxy",7,2020-04-30,846
+"Northumberland","Upper","Proxy",7,2020-05-01,1029
+"Northumberland","Lower","Proxy",7,2020-05-01,871
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-15,262
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-15,132
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-16,276
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-16,188
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-17,284
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-17,188
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-18,298
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-18,188
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-19,305
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-19,188
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-20,308
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-20,189
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-21,312
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-21,235
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-22,331
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-22,235
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-23,349
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-23,236
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-24,352
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-24,236
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-25,359
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-25,237
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-26,368
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-26,249
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-27,376
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-27,253
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-28,385
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-28,254
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-29,403
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-29,254
+"Redcar and Cleveland","Upper","Proxy",12,2020-04-30,417
+"Redcar and Cleveland","Lower","Proxy",12,2020-04-30,259
+"Redcar and Cleveland","Upper","Proxy",12,2020-05-01,428
+"Redcar and Cleveland","Lower","Proxy",12,2020-05-01,266
+"Rotherham","Lower","Estimate",NA,2020-04-15,481
+"Rotherham","Upper","Estimate",NA,2020-04-15,519
+"Rotherham","Lower","Estimate",NA,2020-04-16,496
+"Rotherham","Upper","Estimate",NA,2020-04-16,537
+"Rotherham","Lower","Estimate",NA,2020-04-17,512
+"Rotherham","Upper","Estimate",NA,2020-04-17,556
+"Rotherham","Lower","Estimate",NA,2020-04-18,527
+"Rotherham","Upper","Estimate",NA,2020-04-18,575
+"Rotherham","Lower","Estimate",NA,2020-04-19,543
+"Rotherham","Upper","Estimate",NA,2020-04-19,594
+"Rotherham","Lower","Estimate",NA,2020-04-20,558
+"Rotherham","Upper","Estimate",NA,2020-04-20,613
+"Rotherham","Lower","Estimate",NA,2020-04-21,574
+"Rotherham","Upper","Estimate",NA,2020-04-21,632
+"Rotherham","Lower","Estimate",NA,2020-04-22,589
+"Rotherham","Upper","Estimate",NA,2020-04-22,651
+"Rotherham","Lower","Estimate",NA,2020-04-23,604
+"Rotherham","Upper","Estimate",NA,2020-04-23,670
+"Rotherham","Lower","Estimate",NA,2020-04-24,620
+"Rotherham","Upper","Estimate",NA,2020-04-24,689
+"Rotherham","Lower","Estimate",NA,2020-04-25,635
+"Rotherham","Upper","Estimate",NA,2020-04-25,707
+"Rotherham","Lower","Estimate",NA,2020-04-26,651
+"Rotherham","Upper","Estimate",NA,2020-04-26,726
+"Rotherham","Lower","Estimate",NA,2020-04-27,666
+"Rotherham","Upper","Estimate",NA,2020-04-27,745
+"Rotherham","Lower","Estimate",NA,2020-04-28,682
+"Rotherham","Upper","Estimate",NA,2020-04-28,764
+"Rotherham","Lower","Estimate",NA,2020-04-29,697
+"Rotherham","Upper","Estimate",NA,2020-04-29,783
+"Rotherham","Lower","Estimate",NA,2020-04-30,713
+"Rotherham","Upper","Estimate",NA,2020-04-30,802
+"Rotherham","Lower","Estimate",NA,2020-05-01,728
+"Rotherham","Upper","Estimate",NA,2020-05-01,821
+"Sheffield","Lower","Estimate",NA,2020-04-15,1613
+"Sheffield","Upper","Estimate",NA,2020-04-15,1745
+"Sheffield","Lower","Estimate",NA,2020-04-16,1653
+"Sheffield","Upper","Estimate",NA,2020-04-16,1795
+"Sheffield","Lower","Estimate",NA,2020-04-17,1694
+"Sheffield","Upper","Estimate",NA,2020-04-17,1844
+"Sheffield","Lower","Estimate",NA,2020-04-18,1734
+"Sheffield","Upper","Estimate",NA,2020-04-18,1894
+"Sheffield","Lower","Estimate",NA,2020-04-19,1775
+"Sheffield","Upper","Estimate",NA,2020-04-19,1943
+"Sheffield","Lower","Estimate",NA,2020-04-20,1815
+"Sheffield","Upper","Estimate",NA,2020-04-20,1993
+"Sheffield","Lower","Estimate",NA,2020-04-21,1856
+"Sheffield","Upper","Estimate",NA,2020-04-21,2042
+"Sheffield","Lower","Estimate",NA,2020-04-22,1896
+"Sheffield","Upper","Estimate",NA,2020-04-22,2092
+"Sheffield","Lower","Estimate",NA,2020-04-23,1937
+"Sheffield","Upper","Estimate",NA,2020-04-23,2141
+"Sheffield","Lower","Estimate",NA,2020-04-24,1977
+"Sheffield","Upper","Estimate",NA,2020-04-24,2191
+"Sheffield","Lower","Estimate",NA,2020-04-25,2018
+"Sheffield","Upper","Estimate",NA,2020-04-25,2240
+"Sheffield","Lower","Estimate",NA,2020-04-26,2058
+"Sheffield","Upper","Estimate",NA,2020-04-26,2290
+"Sheffield","Lower","Estimate",NA,2020-04-27,2099
+"Sheffield","Upper","Estimate",NA,2020-04-27,2339
+"Sheffield","Lower","Estimate",NA,2020-04-28,2139
+"Sheffield","Upper","Estimate",NA,2020-04-28,2389
+"Sheffield","Lower","Estimate",NA,2020-04-29,2180
+"Sheffield","Upper","Estimate",NA,2020-04-29,2438
+"Sheffield","Lower","Estimate",NA,2020-04-30,2220
+"Sheffield","Upper","Estimate",NA,2020-04-30,2488
+"Sheffield","Lower","Estimate",NA,2020-05-01,2261
+"Sheffield","Upper","Estimate",NA,2020-05-01,2537
+"South Tyneside","Upper","Proxy",8,2020-04-15,405
+"South Tyneside","Lower","Proxy",8,2020-04-15,248
+"South Tyneside","Upper","Proxy",8,2020-04-16,419
+"South Tyneside","Lower","Proxy",8,2020-04-16,245
+"South Tyneside","Upper","Proxy",8,2020-04-17,441
+"South Tyneside","Lower","Proxy",8,2020-04-17,250
+"South Tyneside","Upper","Proxy",8,2020-04-18,452
+"South Tyneside","Lower","Proxy",8,2020-04-18,323
+"South Tyneside","Upper","Proxy",8,2020-04-19,474
+"South Tyneside","Lower","Proxy",8,2020-04-19,341
+"South Tyneside","Upper","Proxy",8,2020-04-20,488
+"South Tyneside","Lower","Proxy",8,2020-04-20,368
+"South Tyneside","Upper","Proxy",8,2020-04-21,510
+"South Tyneside","Lower","Proxy",8,2020-04-21,378
+"South Tyneside","Upper","Proxy",8,2020-04-22,522
+"South Tyneside","Lower","Proxy",8,2020-04-22,384
+"South Tyneside","Upper","Proxy",8,2020-04-23,605
+"South Tyneside","Lower","Proxy",8,2020-04-23,389
+"South Tyneside","Upper","Proxy",8,2020-04-24,619
+"South Tyneside","Lower","Proxy",8,2020-04-24,395
+"South Tyneside","Upper","Proxy",8,2020-04-25,629
+"South Tyneside","Lower","Proxy",8,2020-04-25,403
+"South Tyneside","Upper","Proxy",8,2020-04-26,629
+"South Tyneside","Lower","Proxy",8,2020-04-26,417
+"South Tyneside","Upper","Proxy",8,2020-04-27,670
+"South Tyneside","Lower","Proxy",8,2020-04-27,418
+"South Tyneside","Upper","Proxy",8,2020-04-28,670
+"South Tyneside","Lower","Proxy",8,2020-04-28,424
+"South Tyneside","Upper","Proxy",8,2020-04-29,660
+"South Tyneside","Lower","Proxy",8,2020-04-29,425
+"South Tyneside","Upper","Proxy",8,2020-04-30,696
+"South Tyneside","Lower","Proxy",8,2020-04-30,426
+"South Tyneside","Upper","Proxy",8,2020-05-01,720
+"South Tyneside","Lower","Proxy",8,2020-05-01,427
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-15,321
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-15,203
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-16,329
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-16,224
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-17,353
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-17,238
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-18,359
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-18,257
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-19,364
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-19,263
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-20,369
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-20,275
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-21,378
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-21,284
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-22,401
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-22,288
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-23,425
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-23,290
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-24,441
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-24,292
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-25,463
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-25,306
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-26,469
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-26,310
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-27,473
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-27,316
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-28,472
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-28,317
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-29,473
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-29,317
+"Stockton-on-Tees","Upper","Proxy",15,2020-04-30,479
+"Stockton-on-Tees","Lower","Proxy",15,2020-04-30,317
+"Stockton-on-Tees","Upper","Proxy",15,2020-05-01,499
+"Stockton-on-Tees","Lower","Proxy",15,2020-05-01,318
+"Sunderland","Lower","Estimate",NA,2020-04-15,840
+"Sunderland","Upper","Estimate",NA,2020-04-15,902
+"Sunderland","Lower","Estimate",NA,2020-04-16,870
+"Sunderland","Upper","Estimate",NA,2020-04-16,939
+"Sunderland","Lower","Estimate",NA,2020-04-17,900
+"Sunderland","Upper","Estimate",NA,2020-04-17,976
+"Sunderland","Lower","Estimate",NA,2020-04-18,930
+"Sunderland","Upper","Estimate",NA,2020-04-18,1012
+"Sunderland","Lower","Estimate",NA,2020-04-19,960
+"Sunderland","Upper","Estimate",NA,2020-04-19,1049
+"Sunderland","Lower","Estimate",NA,2020-04-20,990
+"Sunderland","Upper","Estimate",NA,2020-04-20,1086
+"Sunderland","Lower","Estimate",NA,2020-04-21,1020
+"Sunderland","Upper","Estimate",NA,2020-04-21,1122
+"Sunderland","Lower","Estimate",NA,2020-04-22,1050
+"Sunderland","Upper","Estimate",NA,2020-04-22,1159
+"Sunderland","Lower","Estimate",NA,2020-04-23,1080
+"Sunderland","Upper","Estimate",NA,2020-04-23,1196
+"Sunderland","Lower","Estimate",NA,2020-04-24,1110
+"Sunderland","Upper","Estimate",NA,2020-04-24,1232
+"Sunderland","Lower","Estimate",NA,2020-04-25,1140
+"Sunderland","Upper","Estimate",NA,2020-04-25,1269
+"Sunderland","Lower","Estimate",NA,2020-04-26,1170
+"Sunderland","Upper","Estimate",NA,2020-04-26,1306
+"Sunderland","Lower","Estimate",NA,2020-04-27,1200
+"Sunderland","Upper","Estimate",NA,2020-04-27,1342
+"Sunderland","Lower","Estimate",NA,2020-04-28,1230
+"Sunderland","Upper","Estimate",NA,2020-04-28,1379
+"Sunderland","Lower","Estimate",NA,2020-04-29,1260
+"Sunderland","Upper","Estimate",NA,2020-04-29,1416
+"Sunderland","Lower","Estimate",NA,2020-04-30,1290
+"Sunderland","Upper","Estimate",NA,2020-04-30,1452
+"Sunderland","Lower","Estimate",NA,2020-05-01,1320
+"Sunderland","Upper","Estimate",NA,2020-05-01,1489
+"Wakefield","Upper","Proxy",2,2020-04-15,471
+"Wakefield","Lower","Proxy",2,2020-04-15,430
+"Wakefield","Upper","Proxy",2,2020-04-16,491
+"Wakefield","Lower","Proxy",2,2020-04-16,460
+"Wakefield","Upper","Proxy",2,2020-04-17,515
+"Wakefield","Lower","Proxy",2,2020-04-17,487
+"Wakefield","Upper","Proxy",2,2020-04-18,519
+"Wakefield","Lower","Proxy",2,2020-04-18,499
+"Wakefield","Upper","Proxy",2,2020-04-19,527
+"Wakefield","Lower","Proxy",2,2020-04-19,522
+"Wakefield","Upper","Proxy",2,2020-04-20,544
+"Wakefield","Lower","Proxy",2,2020-04-20,538
+"Wakefield","Upper","Proxy",2,2020-04-21,560
+"Wakefield","Lower","Proxy",2,2020-04-21,558
+"Wakefield","Upper","Proxy",2,2020-04-22,584
+"Wakefield","Lower","Proxy",2,2020-04-22,577
+"Wakefield","Upper","Proxy",2,2020-04-23,602
+"Wakefield","Lower","Proxy",2,2020-04-23,592
+"Wakefield","Upper","Proxy",2,2020-04-24,620
+"Wakefield","Lower","Proxy",2,2020-04-24,606
+"Wakefield","Upper","Proxy",2,2020-04-25,649
+"Wakefield","Lower","Proxy",2,2020-04-25,613
+"Wakefield","Upper","Proxy",2,2020-04-26,653
+"Wakefield","Lower","Proxy",2,2020-04-26,636
+"Wakefield","Upper","Proxy",2,2020-04-27,677
+"Wakefield","Lower","Proxy",2,2020-04-27,664
+"Wakefield","Upper","Proxy",2,2020-04-28,694
+"Wakefield","Lower","Proxy",2,2020-04-28,686
+"Wakefield","Upper","Proxy",2,2020-04-29,727
+"Wakefield","Lower","Proxy",2,2020-04-29,698
+"Wakefield","Upper","Proxy",2,2020-04-30,733
+"Wakefield","Lower","Proxy",2,2020-04-30,723
+"Wakefield","Upper","Proxy",2,2020-05-01,755
+"Wakefield","Lower","Proxy",2,2020-05-01,750
+"York","Upper","Proxy",7,2020-04-15,222
+"York","Lower","Proxy",7,2020-04-15,126
+"York","Upper","Proxy",7,2020-04-16,224
+"York","Lower","Proxy",7,2020-04-16,140
+"York","Upper","Proxy",7,2020-04-17,227
+"York","Lower","Proxy",7,2020-04-17,152
+"York","Upper","Proxy",7,2020-04-18,232
+"York","Lower","Proxy",7,2020-04-18,178
+"York","Upper","Proxy",7,2020-04-19,240
+"York","Lower","Proxy",7,2020-04-19,180
+"York","Upper","Proxy",7,2020-04-20,246
+"York","Lower","Proxy",7,2020-04-20,182
+"York","Upper","Proxy",7,2020-04-21,257
+"York","Lower","Proxy",7,2020-04-21,190
+"York","Upper","Proxy",7,2020-04-22,262
+"York","Lower","Proxy",7,2020-04-22,192
+"York","Upper","Proxy",7,2020-04-23,284
+"York","Lower","Proxy",7,2020-04-23,201
+"York","Upper","Proxy",7,2020-04-24,299
+"York","Lower","Proxy",7,2020-04-24,206
+"York","Upper","Proxy",7,2020-04-25,316
+"York","Lower","Proxy",7,2020-04-25,208
+"York","Upper","Proxy",7,2020-04-26,334
+"York","Lower","Proxy",7,2020-04-26,218
+"York","Upper","Proxy",7,2020-04-27,358
+"York","Lower","Proxy",7,2020-04-27,221
+"York","Upper","Proxy",7,2020-04-28,379
+"York","Lower","Proxy",7,2020-04-28,225
+"York","Upper","Proxy",7,2020-04-29,403
+"York","Lower","Proxy",7,2020-04-29,226
+"York","Upper","Proxy",7,2020-04-30,417
+"York","Lower","Proxy",7,2020-04-30,228
+"York","Upper","Proxy",7,2020-05-01,428
+"York","Lower","Proxy",7,2020-05-01,235
