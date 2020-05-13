@@ -1,9 +1,5 @@
-### Dashboard options
+#### **Dashboard options**
 
-For the selected North East or Yorkshire region, the plot shows the cumulative number of confirmed cases, along with the corresponding data from those Italian regions in the same cluster that are close enough (fitting within the **'range for proxy'** on the last day of UK data). Because of the assumption that Italy is two weeks ahead of the UK, the Italian data provides a heuristic forecast for the North East region.
+For the selected North East or Yorkshire region, the plot shows the cumulative number of confirmed cases, along with the corresponding data from those Italian provinces in the same cluster. The best Italian provinces are identified by using the root-mean-square error (RMSE), which is a frequently used measure of the differences between actual and proxy values (in this case, daily cumulative cases) or the predictions of a model. For us, 'best proxies' is defined as those Italian provinces with an RMSE less than the **'Max RMSE for proxies'** against the chosen region's data preceding days, chosen by **'Select proxies based on how many days'** (the red dashed line shows the beginning of this period). Because of the assumption that Italy is two weeks ahead of the outbreak in the UK (and also post-lockdown strategies for easing social distancing), the Italian data provides a heuristic forecast for the North East region.
 
-Selecting **'Show numbers'** will display the smallest and largest values from this selection of proxy data, for each day.
-
-**'Show UK data from same cluster'** will add the data from those regions in the UK in the same cluster as the selected North East region.
-
-**'Show estimate'** will display an estimated forecast, derived from the past week of data for the chosen region. This estimate does not use data from any other UK or Italian region. 
+**'Show UK data from same cluster'** will add the data from those regions in the UK in the same cluster as the selected North East region, which fit the RMSE constraints selected for the Italian proxies.

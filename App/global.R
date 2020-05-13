@@ -1,7 +1,7 @@
 # global.R for complex-it model
 
 # for working on this do
-#  setwd("C:/Users/Rachel Oughton/Dropbox/postdocs/COVID19/ComplexIt/app")
+#  setwd("C:/Users/Rachel Oughton/Dropbox/postdocs/COVID19/ComplexIt/App_regression")
 
 
 # published at https://racheloughton.shinyapps.io/Complex-IT-RHO/
@@ -16,13 +16,19 @@ require(timeDate)
 require(tidyselect)
 library(shiny)
 library(markdown)
+require(lmvar)
+require(mvtnorm)
+require(shinyWidgets)
+library(Cairo)
+options(shiny.usecairo=T)
 
 options(shiny.deprecation.messages=FALSE)
 
 # just relative to where the 
  # inData_raw_old = read.csv("data/data_quadrants.csv")
  # inData_raw = read.csv("data/data_quadrants23April.csv")
- inData_raw = read.csv("data/data_quadrants_new.csv")
+ inData_raw = read.csv("data/data_quadrants12May20.csv")
+# names(inData_raw)[1:2] = c("areaName", "areaID")
  
  
  date_format = function(x){
@@ -116,10 +122,14 @@ idxLastActualDay <- which(is.na(inData[1,]))[1] - 1
 lastActualDay <- names(inData)[idxLastActualDay]
 #projectedVars <- names(inData)[(idxLastActualDay+1):(idxLastActualDay+7)]
 projectedVars <- names(inData)[(idxLastActualDay+1):(idxLastActualDay+10)]
+inData_past = inData[, 1:idxLastActualDay]
+date_names_past = names(inData_past)[grep("^X", names(inData_past))]
+dates_past = date_format(date_names_past)
+last_week = dates_past[length(dates_past)-7]
 
 fullItaly <- inData[inData$areaName %in% ItalyNames, ]
 
-dataItaly <- inData[inData$areaName %in% ItalyNames, c("areaName", "quadrant", lastActualDay, projectedVars)]
+#dataItaly <- inData[inData$areaName %in% ItalyNames, c("areaName", "quadrant", lastActualDay, projectedVars)]
 
 fullNE = inData[inData$areaName %in% NEnames,]
 fullUKother = inData[inData$areaName %in% UKnames_other, ]

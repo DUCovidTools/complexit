@@ -1,0 +1,13 @@
+#### **Models**
+
+This dashboard works by fitting statistical models to COVID19 data.
+If 'use past' is selected, then data from the chosen North East / Yorkshire region will be used, as well as that from any Italian proxy regions, starting from the chosen date. The starting date of the data used to fit the model is shown by the vertical purple line.
+
+#### **Model types**
+
+**Linear regression:** A linear regression (modelling number of cases as a linear function of time) is fit to the selected data and used to create a mean and 95% prediction interval for the following 9 days. 
+
+**Linear regression (non-constant variance):** Similar to a linear regression model, but in this model the residual variance also varies with time.
+
+**Log-linear regression:** A linear regression model in terms of log(Cases). This appears to better fit the behaviour of the data. In this case the prediction is formed by sampling from the predictive distribution at the log scale, transforming back to the response scale, and finding quantiles.
+

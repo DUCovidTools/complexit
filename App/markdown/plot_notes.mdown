@@ -1,21 +1,11 @@
-### Plot notes
+#### **Plot notes**
 
-#### Data
+**Data:** The actual data from the selected region is shown by the solid purple line.
+Data from Italian proxy regions are shown by grey lines.
+Data from UK regions fitting the same proxy criteria are shown by pink lines, if selected.
 
-The actual data from the selected region is shown by the solid black line.
+**Model:** The mean trend from the chosen fitted model is shown by the solid purple line. The 95% prediction interval is shown by the lighter band.
 
-Data from Italian proxy regions are shown by orange-red lines.
-
-Data from UK regions fitting the same proxy criteria are shown by green lines, if selected.
-
-#### Model
-
-The mean trend from the chosen fitted model is shown by the solid purple line. The 95% prediction interval is shown by a lighter purple band.
-
-#### Vertical lines
-
-The solid blue vertical line marks the last day for which we have UK data.
-
-The dashed purple line shows the first date in the dataset used to fit the regression model. If 'Use past in regression' is not selected then this will be the same as the blue line, and only future data from Italian proxies will be used (if available).
-
-The dashed orange-red line shows the first date in the dataset used to select proxies (or other UK regions) based on RMSE values.
+**Vertical lines:** The dashed grey line marks the last day for which we have UK data.
+The dashed blue line shows the first date in the dataset used to fit the regression model. If 'Use past in regression' is not selected then this will be the same as the blue line, and only future data from Italian proxies will be used (if available).
+The dashed red line shows the first date in the dataset used to select proxies (or other UK regions) based on RMSE values.

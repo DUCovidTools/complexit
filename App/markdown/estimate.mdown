@@ -1,9 +1,0 @@
-### Estimate
-
-If the option 'Show estimate' is selected, the past week's data from the region is used to form an estimate in the following way.
-
-1. The gradient within the past week's data is found.
-2. This gradient is used to extrapolate from the current day. 
-  * The gradient is multiplied by a factor of 0.9 for the minimum, and 1.1 for the maximum.
-  * The minimum is projected from the actual number of cases on the current day.
-  * The maximum is projected from 1.1 times that number of cases.

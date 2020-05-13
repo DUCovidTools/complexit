@@ -1,8 +1,8 @@
-## Clustering
+#### **Clustering**
 
 The software used to group the Italian and UK data into clusters is called COMPLEX-IT, which is a case-based, mixed-methods platform for social inquiry into complex data/systems, designed to increase non-expert access to the tools of computational social science (i.e., cluster analysis, artificial intelligence, data visualization, data forecasting, and scenario simulation). In particular, COMPLEX-IT aids social inquiry though a heavy emphasis on learning about the complex data/system under study, which it does by (a) identifying and forecasting major and minor clusters/trends; (b) visualizing their complex causality; and (c) simulating scenarios for potential interventions. COMPLEX-IT is accessible through the web or can be run locally and is powered by R and the Shiny web framework.
  
-Currently (circa 2019), COMPLEX-IT’s suite includes (1) k-means cluster analysis, (2) the Kohonen topographical neural net, (3) a series of data visualization techniques, (4) a machine intelligence algorithm for data forecasting, and (5) a tab for simulating and exploring future scenarios. The fifth tab, in particular – *case-based scenario simulation* (CBSS) – is a major advance in the methodological literature, as it provides an alternative to agent-based modelling and microsimulation for exploring how to influence, change or alter the course of complex data/systems. 
+Currently (circa 2020), COMPLEX-IT's suite includes (1) k-means cluster analysis, (2) the Kohonen topographical neural net, (3) a series of data visualization techniques, (4) a machine intelligence algorithm for data forecasting, and (5) a tab for simulating and exploring future scenarios. The fifth tab, in particular ' *case-based scenario simulation* (CBSS) ' is a major advance in the methodological literature, as it provides an alternative to agent-based modelling and microsimulation for exploring how to influence, change or alter the course of complex data/systems. 
  
-[CLICK HERE TO RUN COMPLEX-IT](https://www.art-sciencefactory.com/complexit.html) online or to download the desktop version.
+[CLICK HERE TO RUN COMPLEX-IT](https://www.art-sciencefactory.com/complexit.html).
 

@@ -1,4 +1,4 @@
-### Dashboard options
+#### **Dashboard options**
 
 For the selected North East region, the plot shows the cumulative number of confirmed cases, along with the corresponding data from those Italian regions in the same cluster that are close enough (fitting within the 'range for proxy' on the last day of UK data). Because of the assumption that Italy is two weeks ahead of the UK, the Italian data provides a heuristic forecast for the North East region.
 

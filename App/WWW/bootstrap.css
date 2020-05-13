@@ -1,0 +1,24 @@
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+  padding:25px;
+  color: #343a40;
+  text-align: left;
+  background-color: #fff;
+  height: 100%;
+}
+
+.well {
+  background-color:white;
+  height:100vh
+}
+
+#buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }

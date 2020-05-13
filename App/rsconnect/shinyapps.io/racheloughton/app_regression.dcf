@@ -1,0 +1,12 @@
+name: app_regression
+title:
+username:
+account: racheloughton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2272287
+bundleId: 3138508
+url: https://racheloughton.shinyapps.io/app_regression/
+when: 1589310143.26791
+asMultiple: FALSE
+asStatic: FALSE
