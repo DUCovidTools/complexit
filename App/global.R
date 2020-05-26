@@ -24,12 +24,9 @@ options(shiny.usecairo=T)
 
 options(shiny.deprecation.messages=FALSE)
 
-# just relative to where the 
- # inData_raw_old = read.csv("data/data_quadrants.csv")
- # inData_raw = read.csv("data/data_quadrants23April.csv")
- inData_raw = read.csv("data/data_quadrants18May20.csv")
-# names(inData_raw)[1:2] = c("areaName", "areaID")
- 
+###### CHANGE THIS LINE FOR NEW DATA
+ inData_raw = read.csv("data/data_quadrants25May20.csv")
+######
  
  date_format = function(x){
    as.Date(gsub("X", "", x), format="%d_%m_%Y")

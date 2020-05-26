@@ -152,6 +152,9 @@ shinyServer <- function(input, output, session){
     
     reg_proj <- reactive({
       rmseData = rmse_proxy()
+      if(!input$useproxy){
+        rmseData = rmseData[rmseData$type == "Actual", ]
+      }
       
       if(input$usepast){
         reg_data = rmseData[rmseData$Day >= input$first_reg,]
@@ -247,12 +250,12 @@ shinyServer <- function(input, output, session){
       if(input$ModelType == "lmvar"){
         validate(
           need(length(model_fit)>1,                     # it will only be 1 if it's a try-error
-               "This leaves no data with which to fit a model - please include past data or change the RMSE constraints.")
+               "This leaves no data with which to fit a model - please include past and/or proxy data or change the RMSE constraints.")
         )
       } else {
         validate(
           need(!is.na(model_fit$coefficients[2]),
-               "This leaves no data with which to fit a model - please include past data or change the RMSE constraints.")
+               "This leaves no data with which to fit a model - please include past and/or proxy data or change the RMSE constraints.")
         )
       }
       pred_df = pred_int()

@@ -68,11 +68,14 @@ fluidRow(
            checkboxInput("usepast", label = "Use past in regression", value = TRUE),
            checkboxInput("showUK", label = "Show UK data from same cluster", value = FALSE),
            checkboxInput("addNumbers", label = "Show forecast bound numbers", value = FALSE),
-           sliderInput("n_RMSE", label = "Select Italian proxies based on how many days?", min = 3, 
-                       max = 14, value = 5, step=1, width="80%"),
-           ## This will need changing once I see what reasonable values are
-           sliderInput("max_RMSE", label = "Max RMSE for Italian proxies",
-                       min=0, max=100, value = 40, step=0.5, width="80%")
+           checkboxInput("useproxy", label = "Use Italian proxy data if available", value = TRUE),
+           conditionalPanel(
+             condition = "input.useproxy == true",
+             sliderInput("n_RMSE", label = "Select Italian proxies based on how many days?", min = 3, 
+                         max = 14, value = 5, step=1, width="80%"),
+             sliderInput("max_RMSE", label = "Max RMSE for Italian proxies",
+                         min=0, max=100, value = 40, step=0.5, width="80%")
+           )
            ),
     column(10,     plotOutput("reg_plot", height = "500px"))
 )))
